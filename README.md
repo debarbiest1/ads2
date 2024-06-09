@@ -3,7 +3,7 @@
 Crunch01 is a Go program designed to print a map based on user input. The program prompts the user for the size of the map, the content (using the digits 0, 1, 2, 3), and the characters to represent the player, wall, and award. 
 
 ## Key Functions
-#### main(): Orchestrates the program flow, from receiving input to displaying the map.
+1. #### main(): Orchestrates the program flow, from receiving input to displaying the map.
 #### ExpandSlice(n, m int, inpSlice [][]int) [][]int: Expands the board for better visual representation.
 #### DrawBoard(grid [][]int, player, award, wall rune): Draws the board with appropriate formatting and colors.
 #### printHeader(m int, maxLenInt int): Prints the horizontal notation.
@@ -27,6 +27,6 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 #### X
 #### @
 
-.
+1. **Clone the Repository:**
 
 
