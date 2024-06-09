@@ -11,7 +11,7 @@ There is an input to print an expected result:
 00010010
 02111010
 00000000
->
+">"
 X
 @
 >
