@@ -3,15 +3,16 @@
 Crunch01 is a Go program designed to print a map based on user input. The program prompts the user for the size of the map, the content (using the digits 0, 1, 2, 3), and the characters to represent the player, wall, and award. 
 
 ## Key Functions
-1. #### main(): Orchestrates the program flow, from receiving input to displaying the map.
-2. #### ExpandSlice(n, m int, inpSlice [][]int) [][]int: Expands the board for better visual representation.
-3. #### DrawBoard(grid [][]int, player, award, wall rune): Draws the board with appropriate formatting and colors.
-4. #### printHeader(m int, maxLenInt int): Prints the horizontal notation.
+1. #### main(): Controls the program flow, from receiving input to displaying the map.
+2. #### ExpandSlice(n, m int, inpSlice [][]int) [][]int: Enlarges the board for better visualization.
+3. #### DrawBoard(grid [][]int, player, award, wall rune):  Illustrates the board with appropriate formatting and colors.
+4. #### printHeader(m int, maxLenInt int): Responsible for  the horizontal notation.
 5. #### printGrid(grid [][]int, m int, maxLenInt int, red, white, blue, yellow, resetColor string, player, award, wall rune): Prints the grid with colors and symbols.
 6. #### IntOrderToString(n int) string: Converts an integer to its corresponding alphabetical notation.
-7. #### clearScreen(): Clears the terminal screen.
-8. #### Print(s string, n int): Prints a string multiple times.
+7. #### clearScreen(): Clears the terminal.
+8. #### Print(s string, n int): Outputs a string multiple times.
 9. #### PutNumber(n int): Prints an integer
+
 
 
 
@@ -29,6 +30,32 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 #### X
 #### @
 
-1. **Clone the Repository:**
+
+ _______________________________________________________________
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|       |       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|
+|XXXXXXX|       |       |XXXXXXX|   @   |XXXXXXX|       |XXXXXXX|
+|XXXXXXX|_______|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|
+|XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
+|XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
+|XXXXXXX|_______|_______|XXXXXXX|_______|_______|_______|XXXXXXX|
+|XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
+|XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
+|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|XXXXXXX|
+|XXXXXXX|       |       |       |       |       |       |XXXXXXX|
+|XXXXXXX|       |       |       |       |       |       |XXXXXXX|
+|XXXXXXX|_______|_______|_______|_______|_______|_______|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|_______|XXXXXXX|XXXXXXX|_______|XXXXXXX|
+|XXXXXXX|       |       |       |       |XXXXXXX|       |XXXXXXX|
+|XXXXXXX|   >   |       |       |       |XXXXXXX|       |XXXXXXX|
+|XXXXXXX|_______|_______|_______|_______|XXXXXXX|       |XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+
 
 
