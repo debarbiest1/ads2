@@ -13,10 +13,14 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 8. #### Print(s string, n int): Outputs a string multiple times.
 9. #### PutNumber(n int): Prints an integer
 
+## Team members and their contribution:
+1. #### dassanov -
+2. #### kzhalmag - responsible for horizontal map notation, preparing README.md file for better represention of program details 
+3. #### tgrigory - 
 
 
 
-## There is an input to print an expected result:
+## There is an input to print an expected result(as it was ):
 #### 8 8
 #### 00000000
 #### 01103010
@@ -30,32 +34,35 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 #### X
 #### @
 
+' _______________________________________________________________
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|       |       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|
+|XXXXXXX|       |       |XXXXXXX|   @   |XXXXXXX|       |XXXXXXX|
+|XXXXXXX|_______|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|
+|XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
+|XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
+|XXXXXXX|_______|_______|XXXXXXX|_______|_______|_______|XXXXXXX|
+|XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
+|XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
+|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|XXXXXXX|
+|XXXXXXX|       |       |       |       |       |       |XXXXXXX|
+|XXXXXXX|       |       |       |       |       |       |XXXXXXX|
+|XXXXXXX|_______|_______|_______|_______|_______|_______|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|_______|XXXXXXX|XXXXXXX|_______|XXXXXXX|
+|XXXXXXX|       |       |       |       |XXXXXXX|       |XXXXXXX|
+|XXXXXXX|   >   |       |       |       |XXXXXXX|       |XXXXXXX|
+|XXXXXXX|_______|_______|_______|_______|XXXXXXX|       |XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|'
 
-### _______________________________________________________________
-### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-### |XXXXXXX|       |       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|
-### |XXXXXXX|       |       |XXXXXXX|   @   |XXXXXXX|       |XXXXXXX|
-### |XXXXXXX|_______|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|
-### |XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
-### |XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
-### |XXXXXXX|_______|_______|XXXXXXX|_______|_______|_______|XXXXXXX|
-### |XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
-### |XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
-### |XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|XXXXXXX|
-### |XXXXXXX|       |       |       |       |       |       |XXXXXXX|
-### |XXXXXXX|       |       |       |       |       |       |XXXXXXX|
-### |XXXXXXX|_______|_______|_______|_______|_______|_______|XXXXXXX|
-### |XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
-### |XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
-### |XXXXXXX|XXXXXXX|XXXXXXX|_______|XXXXXXX|XXXXXXX|_______|XXXXXXX|
-### |XXXXXXX|       |       |       |       |XXXXXXX|       |XXXXXXX|
-### |XXXXXXX|   >   |       |       |       |XXXXXXX|       |XXXXXXX|
-### |XXXXXXX|_______|_______|_______|_______|XXXXXXX|       |XXXXXXX|
-### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+
+
+
 
 
 
