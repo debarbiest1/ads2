@@ -4,14 +4,14 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 
 ## Key Functions
 1. #### main(): Orchestrates the program flow, from receiving input to displaying the map.
-#### ExpandSlice(n, m int, inpSlice [][]int) [][]int: Expands the board for better visual representation.
-#### DrawBoard(grid [][]int, player, award, wall rune): Draws the board with appropriate formatting and colors.
-#### printHeader(m int, maxLenInt int): Prints the horizontal notation.
-#### printGrid(grid [][]int, m int, maxLenInt int, red, white, blue, yellow, resetColor string, player, award, wall rune): Prints the grid with colors and symbols.
-#### IntOrderToString(n int) string: Converts an integer to its corresponding alphabetical notation.
-#### clearScreen(): Clears the terminal screen.
-#### Print(s string, n int): Prints a string multiple times.
-#### PutNumber(n int): Prints an integer
+2. #### ExpandSlice(n, m int, inpSlice [][]int) [][]int: Expands the board for better visual representation.
+3. #### DrawBoard(grid [][]int, player, award, wall rune): Draws the board with appropriate formatting and colors.
+4. #### printHeader(m int, maxLenInt int): Prints the horizontal notation.
+5. #### printGrid(grid [][]int, m int, maxLenInt int, red, white, blue, yellow, resetColor string, player, award, wall rune): Prints the grid with colors and symbols.
+6. #### IntOrderToString(n int) string: Converts an integer to its corresponding alphabetical notation.
+7. #### clearScreen(): Clears the terminal screen.
+8. #### Print(s string, n int): Prints a string multiple times.
+9. #### PutNumber(n int): Prints an integer
 
 ## There is an input to print an expected result:
 #### 8 8
