@@ -31,31 +31,31 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 #### @
 
 
- _______________________________________________________________
-|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-|XXXXXXX|       |       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|
-|XXXXXXX|       |       |XXXXXXX|   @   |XXXXXXX|       |XXXXXXX|
-|XXXXXXX|_______|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|
-|XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
-|XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
-|XXXXXXX|_______|_______|XXXXXXX|_______|_______|_______|XXXXXXX|
-|XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
-|XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
-|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|XXXXXXX|
-|XXXXXXX|       |       |       |       |       |       |XXXXXXX|
-|XXXXXXX|       |       |       |       |       |       |XXXXXXX|
-|XXXXXXX|_______|_______|_______|_______|_______|_______|XXXXXXX|
-|XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
-|XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
-|XXXXXXX|XXXXXXX|XXXXXXX|_______|XXXXXXX|XXXXXXX|_______|XXXXXXX|
-|XXXXXXX|       |       |       |       |XXXXXXX|       |XXXXXXX|
-|XXXXXXX|   >   |       |       |       |XXXXXXX|       |XXXXXXX|
-|XXXXXXX|_______|_______|_______|_______|XXXXXXX|       |XXXXXXX|
-|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
-|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+### _______________________________________________________________
+### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+### |XXXXXXX|       |       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|
+### |XXXXXXX|       |       |XXXXXXX|   @   |XXXXXXX|       |XXXXXXX|
+### |XXXXXXX|_______|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|
+### |XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
+### |XXXXXXX|       |       |XXXXXXX|       |       |       |XXXXXXX|
+### |XXXXXXX|_______|_______|XXXXXXX|_______|_______|_______|XXXXXXX|
+### |XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
+### |XXXXXXX|       |XXXXXXX|       |XXXXXXX|       |XXXXXXX|XXXXXXX|
+### |XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|_______|XXXXXXX|XXXXXXX|
+### |XXXXXXX|       |       |       |       |       |       |XXXXXXX|
+### |XXXXXXX|       |       |       |       |       |       |XXXXXXX|
+### |XXXXXXX|_______|_______|_______|_______|_______|_______|XXXXXXX|
+### |XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
+### |XXXXXXX|XXXXXXX|XXXXXXX|       |XXXXXXX|XXXXXXX|       |XXXXXXX|
+### |XXXXXXX|XXXXXXX|XXXXXXX|_______|XXXXXXX|XXXXXXX|_______|XXXXXXX|
+### |XXXXXXX|       |       |       |       |XXXXXXX|       |XXXXXXX|
+### |XXXXXXX|   >   |       |       |       |XXXXXXX|       |XXXXXXX|
+### |XXXXXXX|_______|_______|_______|_______|XXXXXXX|       |XXXXXXX|
+### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
+### |XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|XXXXXXX|
 
 
 
