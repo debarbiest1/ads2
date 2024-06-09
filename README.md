@@ -14,9 +14,9 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 9. #### PutNumber(n int): Prints an integer
 
 ## Team members and their contribution:
-1. #### dassanov -
+1. #### dassanov - 
 2. #### kzhalmag - responsible for horizontal map notation, preparing README.md file for better represention of program details 
-3. #### tgrigory - 
+3. #### tgrigory - responsible for player , walls and rewards customization. Also for the use of colors in these objects.
 
 
 ### There is an input to print an expected result(as it was written in requirements):
