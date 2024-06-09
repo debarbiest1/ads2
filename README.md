@@ -13,6 +13,8 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 8. #### Print(s string, n int): Prints a string multiple times.
 9. #### PutNumber(n int): Prints an integer
 
+
+
 ## There is an input to print an expected result:
 #### 8 8
 #### 00000000
