@@ -20,7 +20,7 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 
 
 
-## There is an input to print an expected result(as it was ):
+### There is an input to print an expected result(as it was written in requirements):
 #### 8 8
 #### 00000000
 #### 01103010
@@ -33,6 +33,8 @@ Crunch01 is a Go program designed to print a map based on user input. The progra
 #### >
 #### X
 #### @
+
+### Output:
 
 ```
 _______________________________________________________________
