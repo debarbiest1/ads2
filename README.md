@@ -14,5 +14,16 @@ There is an input to print an expected result:
 >
 X
 @
+>
+>Key Functions
+main(): Orchestrates the program flow, from receiving input to displaying the map.
+ExpandSlice(n, m int, inpSlice [][]int) [][]int: Expands the board for better visual representation.
+DrawBoard(grid [][]int, player, award, wall rune): Draws the board with appropriate formatting and colors.
+printHeader(m int, maxLenInt int): Prints the horizontal notation.
+printGrid(grid [][]int, m int, maxLenInt int, red, white, blue, yellow, resetColor string, player, award, wall rune): Prints the grid with colors and symbols.
+IntOrderToString(n int) string: Converts an integer to its corresponding alphabetical notation.
+clearScreen(): Clears the terminal screen.
+Print(s string, n int): Prints a string multiple times.
+PutNumber(n int): Prints an integer.
 
 
